@@ -1,0 +1,31 @@
+{
+  "ciudades": [
+    {
+      "id": 1,
+      "ciudad": "Bucaramanga"
+    },
+    {
+      "id": 2,
+      "ciudad": "Pereira"
+    },
+    {
+      "id": 3,
+      "ciudad": "Cali"
+    }
+  ],
+  "generos": [
+    {
+      "id": 1,
+      "genero": "M"
+    },
+    {
+      "id": 2,
+      "genero": "F"
+    },
+    {
+      "id": 3,
+      "genero": "Otro"
+    }
+  ],
+  "usuarios": []
+}
